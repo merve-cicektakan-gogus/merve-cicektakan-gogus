@@ -9,16 +9,16 @@ I focus on the full product lifecycle: from discovery and user research to launc
 
 ## What I work on
 
-- **Fintech & banking** — lending flows, NFC payments, embedded finance (4M+ users)
+- **Fintech & banking** — lending flows, menu & navigation, embedded finance (4M+ users)
 - **B2B SaaS & regtech** — tax compliance automation, enterprise client products
-- **0→1 delivery** — 8+ platforms across B2C marketplaces, SaaS tools, and social apps
-- **AI in product** — agentic workflow design, AI-supported discovery and documentation
+- **0→1 delivery** — 8+ platforms across B2C marketplaces, B2B SaaS tools, and social apps
+- **AI in product** — agentic workflow design, AI-supported discovery, documentation, and ptorotyping
 
 ---
 
 ## How I work
 
-- Deeply collaborative — across engineering, design, QA, data, compliance, and commercial
+- Deeply collaborative — across engineering, design, QA, data, compliance, marketing, sales, account management
 - Data-informed — SQL for user behaviour analysis, A/B testing, KPI-led iteration
 - User-grounded — discovery interviews, usability testing, continuous feedback loops
 - Comfortable with ambiguity and fast-moving environments
@@ -27,7 +27,7 @@ I focus on the full product lifecycle: from discovery and user research to launc
 
 ## Tools & methods
 
-`SQL` `Figma` `Jira` `Lovable` `Agile / Scrum` `OKRs` `A/B Testing` `User Research` `PRDs` `Roadmapping`
+`SQL` `Figma` `Jira` `Lovable` `Agile / Scrum` `OKRs` `A/B Testing` `User Research` `PRDs` `Roadmapping` `Design Thinking` 
 
 ---
 
