@@ -54,4 +54,5 @@ I focus on the full product lifecycle: from discovery and user research to launc
 📧 cicektakanmerve@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/merve-cicektakan-gogus)
   https://merve-ai-twin.vercel.app/
+
 📍 London, UK
